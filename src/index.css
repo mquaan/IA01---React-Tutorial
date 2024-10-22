@@ -1,0 +1,14 @@
+.board-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.square {
+    width: 100px;
+    height: 100px;
+}
+
+.winning {
+	background-color: yellow;
+}
